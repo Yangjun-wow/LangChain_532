@@ -1,0 +1,300 @@
+Question 0: 关节外科诊室在什么地方？
+Answer: The orthopedic clinic is located on the 2nd floor, zone 2.
+
+Question 1: 张志成医生在哪个科室？
+Answer: I don't know.
+
+Question 2: 周四上午徐林森医生值班吗？
+Answer: No, Dr. Xu Linsen is not on duty on Thursday morning.
+
+Question 3: 张成俊医生办公室在哪里？
+Answer: 张成俊医生办公室在2楼2区。
+
+Question 4: 周五下午姜岸医生值班吗？
+Answer: No, Dr. Jiang An is not on duty on Friday afternoon.
+
+Question 5: 神经外科诊室在什么地方？
+Answer: Error: Unable to get answer after retries.
+
+Question 6: 费思鞭医生在哪个科室？
+Answer: 神经外科
+
+Question 7: 周三上午狄外医生值班吗？
+Answer: Agent stopped due to iteration limit or time limit.
+
+Question 8: 莫方楠医生办公室在哪里？
+Answer: The office of Dr. Mo Fangnan is located on the 2nd floor, zone 3.
+
+Question 9: 亚托若医生周五上午值班吗？
+Answer: No, 亚托若医生 does not have duty on Friday morning.
+
+Question 10: 2楼1区的普通外科有哪些医生？
+Answer: 杨沈仪, 胡天宇, 赵梦瑶, 路垚, 陆雪琪, 陈晨
+
+Question 11: 徐林森医生在周几下午值班？
+Answer: I don't know.
+
+Question 12: 王淳煜医生周四上午值班吗？
+Answer: No, Dr. Wang Chunyu is not on duty on Thursday morning.
+
+Question 13: 赵子星医生在周几值班？
+Answer: 赵子星医生在周二上午,周二下午,周四上午值班。
+
+Question 14: 余亚军医生在哪个科室？
+Answer: 关节外科
+
+Question 15: 姜岸医生周六上午值班吗？
+Answer: No, Dr. Jiang An does not work on Saturday mornings.
+
+Question 16: 晓八医生在周几值班？
+Answer: 晓八医生在周一上午值班。
+
+Question 17: 心脏外科诊室在什么地方？
+Answer: 心脏外科诊室在2楼3区。
+
+Question 18: 莫方楠医生周日上午值班吗？
+Answer: No, Dr. Mo Fangnan is not on duty on Sunday morning.
+
+Question 19: 亚托若医生在周几值班？
+Answer: 周四上午,周四下午
+
+Question 20: 杨沈仪医生周四下午值班吗？
+Answer: No, Dr. Yang Shenyi is not on duty on Thursday afternoon.
+
+Question 21: 路垚医生在哪些时段值班？
+Answer: There is no information available for Dr. Lu Yao's duty hours in the database.
+
+Question 22: 徐林森医生在哪个科室？
+Answer: I don't know.
+
+Question 23: 王淳煜医生周五上午值班吗？
+Answer: Yes, Dr. Wang Chunyu is on duty on Friday morning.
+
+Question 24: 赵子星医生周四上午值班吗？
+Answer: Yes, Dr. Zhao Zixing is on duty on Thursday morning.
+
+Question 25: 余亚军医生周五上午值班吗？
+Answer: No, Dr. Yu Yajun is not on duty on Friday morning.
+
+Question 26: 张志成医生在周几值班？
+Answer: 张志成医生在周二上午、周二下午、周四上午、周四下午、周五上午、周五下午、周日上午值班。
+
+Question 27: 张成俊医生周四上午值班吗？
+Answer: No, 张成俊医生 does not work on Thursday morning.
+
+Question 28: 莫言医生在哪个科室？
+Answer: I don't know.
+
+Question 29: 姜岸医生周六上午值班吗？
+Answer: No, Dr. Jiang An does not work on Saturday mornings.
+
+Question 30: 晓八医生在周六上午值班吗？
+Answer: No, 晓八医生 does not work on Saturday morning.
+
+Question 31: 费思鞭医生周三上午值班吗？
+Answer: No, Dr. 费思鞭 is not on duty on Wednesday morning.
+
+Question 32: 狄外医生在周几下午值班？
+Answer: I don't know.
+
+Question 33: 亚托若医生周日上午值班吗？
+Answer: No, Dr. 亚托若 does not have a duty on Sunday morning.
+
+Question 34: 赵梦瑶医生在周一上午值班吗？
+Answer: Yes, 赵梦瑶医生在周一上午值班。
+
+Question 35: 陆雪琪医生在哪个科室？
+Answer: 普通外科
+
+Question 36: 黄思洁医生在周五上午值班吗？
+Answer: No, 黄思洁医生 does not work on Friday morning.
+
+Question 37: 柳岚医生周三上午值班吗？
+Answer: Yes, Dr. Liu Lan is on duty on Wednesday morning.
+
+Question 38: 林峰医生在哪个科室？
+Answer: I don't know.
+
+Question 39: 朱元璋医生周四上午值班吗？
+Answer: No, 朱元璋医生 does not have duty on Thursday morning.
+
+Question 40: 杨洪基医生在哪个科室？
+Answer: 骨科
+
+Question 41: 刘京医生周五下午值班吗？
+Answer: No, Dr. Liu Jing does not work on Friday afternoon.
+
+Question 42: 冯浩医生在周一下午值班吗？
+Answer: Yes, Dr. Fenghao is on duty on Monday afternoon.
+
+Question 43: 孙悟空医生周三下午值班吗？
+Answer: Yes, 孙悟空医生 is on duty on Wednesday afternoon.
+
+Question 44: 猪八戒医生在哪个科室？
+Answer: I don't know.
+
+Question 45: 唐僧医生周四上午值班吗？
+Answer: No, 唐僧医生 does not have duty on Thursday morning.
+
+Question 46: 白龙马医生在周几值班？
+Answer: 白龙马医生在周一下午、周二下午、周四上午和周六上午值班。
+
+Question 47: 沙悟净医生周日上午值班吗？
+Answer: Yes, Doctor Sha Wujing has a duty on Sunday morning.
+
+Question 48: 赵梦瑶医生周三下午值班吗？
+Answer: No, Dr. Zhao Mengyao is not on duty on Wednesday afternoon.
+
+Question 49: 陆雪琪医生周五上午值班吗？
+Answer: No, Doctor 陆雪琪 is not on duty on Friday morning.
+
+Question 50: 黄思洁医生在哪些时段值班？
+Answer: I don't know
+
+Question 51: 柳岚医生周六上午值班吗？
+Answer: No, Dr. Liu Lan does not work on Saturday morning.
+
+Question 52: 林峰医生周二下午值班吗？
+Answer: No, Dr. Lin Feng is not on duty on Tuesday afternoon.
+
+Question 53: 朱元璋医生在周几值班？
+Answer: Doctor Zhu Yuanzhang is on duty on Tuesday afternoon, Wednesday morning and afternoon, and Friday morning and afternoon.
+
+Question 54: 杨洪基医生周日上午值班吗？
+Answer: No, Dr. Yang Hongji is not on duty on Sunday morning.
+
+Question 55: 刘京医生在哪个科室？
+Answer: I don't know.
+
+Question 56: 冯浩医生周六上午值班吗？
+Answer: No, Dr. Fenghao does not have duty on Saturday morning.
+
+Question 57: 孙悟空医生周五上午值班吗？
+Answer: No, 孙悟空医生 does not have duty on Friday morning.
+
+Question 58: 猪八戒医生周四上午值班吗？
+Answer: Yes, 猪八戒医生 is on duty on Thursday morning.
+
+Question 59: 唐僧医生在哪个科室？
+Answer: I don't know.
+
+Question 60: 白龙马医生周六上午值班吗？
+Answer: Yes, Dr. Bai Longma is on duty on Saturday morning.
+
+Question 61: 沙悟净医生在周几值班？
+Answer: 沙悟净医生在周一上午、周二上午、周三上午和周四下午值班。
+
+Question 62: 赵梦瑶医生周一下午值班吗？
+Answer: No, Dr. Zhao Mengyao is not on duty on Monday afternoon.
+
+Question 63: 陆雪琪医生周日上午值班吗？
+Answer: Yes, Dr. 陆雪琪 works on Sunday mornings.
+
+Question 64: 黄思洁医生周日上午值班吗？
+Answer: No, Dr. Huang Sijie is not on duty on Sunday morning.
+
+Question 65: 柳岚医生在周几值班？
+Answer: 柳岚医生在周一下午、周二上午、周三上午和周五上午值班。
+
+Question 66: 林峰医生周日上午值班吗？
+Answer: No, Dr. Lin Feng does not work on Sunday mornings.
+
+Question 67: 胡天宇医生周三上午值班吗？
+Answer: Yes
+
+Question 68: 陈晨医生在哪个科室？
+Answer: I don't know.
+
+Question 69: 黄林医生周五上午值班吗？
+Answer: No, Dr. Huang Lin does not have duty on Friday morning.
+
+Question 70: 徐杰医生周四下午值班吗？
+Answer: Yes, Dr. Xu Jie is on duty on Thursday afternoon.
+
+Question 71: 梁文韬医生在哪个科室？
+Answer: 麻醉科
+
+Question 72: 高峰医生周五下午值班吗？
+Answer: No, Dr. Gao Feng is not on duty on Friday afternoon.
+
+Question 73: 李晓东医生周三上午值班吗？
+Answer: Yes, Dr. Li Xiaodong is on duty on Wednesday morning.
+
+Question 74: 周子涵医生在哪个科室？
+Answer: 骨科
+
+Question 75: 蔡明医生周一上午值班吗？
+Answer: No, Dr. Cai Ming does not have duty on Monday morning.
+
+Question 76: 郭强医生在周几值班？
+Answer: I don't know.
+
+Question 77: 许梦阳医生周二下午值班吗？
+Answer: Yes.
+
+Question 78: 胡天宇医生周四上午值班吗？
+Answer: No, Dr. Hu Tianyu is not on duty on Thursday morning.
+
+Question 79: 陈晨医生周六上午值班吗？
+Answer: No, Dr. Chen does not work on Saturday morning.
+
+Question 80: 黄林医生周日上午值班吗？
+Answer: No, Dr. Huang Lin does not have duty on Sunday morning.
+
+Question 81: 徐杰医生周三下午值班吗？
+Answer: No, Dr. Xu Jie does not have duty on Wednesday afternoon.
+
+Question 82: 梁文韬医生周四上午值班吗？
+Answer: Yes, Dr. Liang Wentao is on duty on Thursday morning.
+
+Question 83: 高峰医生在周几值班？
+Answer: 周二下午,周三上午,周三下午,周四下午,周五上午
+
+Question 84: 李晓东医生周六下午值班吗？
+Answer: No, Dr. Li Xiaodong does not work on Saturday afternoon.
+
+Question 85: 周子涵医生周五上午值班吗？
+Answer: Yes, Dr. Zhou Zihan is on duty on Friday morning.
+
+Question 86: 蔡明医生在哪个科室？
+Answer: I don't know.
+
+Question 87: 郭强医生周六上午值班吗？
+Answer: No, Dr. Guo Qiang is not on duty on Saturday morning.
+
+Question 88: 许梦阳医生周四下午值班吗？
+Answer: No, Dr. Xu Mengyang is not on duty on Thursday afternoon.
+
+Question 89: 胡天宇医生在周几值班？
+Answer: 胡天宇医生在周一下午、周二下午、周三上午、周四下午和周日上午值班。
+
+Question 90: 陈晨医生周日上午值班吗？
+Answer: No, Dr. Chen does not have duty on Sunday morning.
+
+Question 91: 黄林医生周二上午值班吗？
+Answer: Yes, Dr. Huang Lin is on duty on Tuesday morning.
+
+Question 92: 徐杰医生周六上午值班吗？
+Answer: Yes, Dr. Xu Jie is on duty on Saturday morning.
+
+Question 93: 梁文韬医生周日上午值班吗？
+Answer: No, Dr. Liang Wentai is not on duty on Sunday morning.
+
+Question 94: 高峰医生在哪个科室？
+Answer: I don't know.
+
+Question 95: 李晓东医生周一下午值班吗？
+Answer: No, Dr. Li Xiaodong does not have duty on Monday afternoon.
+
+Question 96: 周子涵医生周三上午值班吗？
+Answer: No, Dr. Zhou Zihan does not have duty on Wednesday morning.
+
+Question 97: 蔡明医生周四上午值班吗？
+Answer: No, Dr. Cai Ming is not on duty on Thursday morning.
+
+Question 98: 郭强医生周六下午值班吗？
+Answer: No, Dr. Guo Qiang is not on duty on Saturday afternoon.
+
+Question 99: 许梦阳医生周日上午值班吗？
+Answer: No, Dr. Xu Mengyang is not on duty on Sunday morning.
+
