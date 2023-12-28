@@ -28,9 +28,7 @@ toolkit = SQLDatabaseToolkit(db=db, llm=llm)
 agent_executor = create_sql_agent(
     llm=llm,
     toolkit=toolkit,
-    verbose=True,
-    prefix=SQL_PREFIX,
-    suffix=SQL_SUFFIX
+    verbose=True
 )
 
 # 读取CSV文件
